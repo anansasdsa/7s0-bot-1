@@ -28,10 +28,6 @@ client.user.setGame(`Nothing`,"http://twitch.tv/S-F")
   console.log('')
 });
 
-
-
-
-
 client.on('warn', console.warn);
 
 client.on('error', console.error);
